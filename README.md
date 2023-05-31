@@ -1,4 +1,4 @@
-Garbage
+Pair Test
 ==============
 
-Some random thoughts and experiments. 
+Exercise in various methods how to perform pairwise test for equality of expected values. 
